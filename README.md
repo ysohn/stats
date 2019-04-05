@@ -8,12 +8,12 @@ This is the first half of a semester-long class which introduces elementary stat
 
 ## 2019 Course Materials
 
-* [Syllabus](./2019/)
+* [Syllabus](./2019S/)
 
 ### Lecture Slides
 
-* [Introduction](./2019/)
+* [Introduction](./2019S/)
 
 ### Lab Session Materials
 
-* [Introduction](./2019/2019S_Statistics1_SOHN_lab01.zip)
+* [Introduction](./2019S/2019S_Statistics1_SOHN_lab01.zip)
