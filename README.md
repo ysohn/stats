@@ -13,3 +13,7 @@ This is the first half of a semester-long class which introduces elementary stat
 ### Lecture Slides
 
 * [Introduction](./2019/)
+
+### Lab Session Materials
+
+* [Introduction](./2019/)
