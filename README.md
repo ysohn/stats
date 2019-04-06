@@ -2,7 +2,7 @@
 
 by Yunkyu Sohn
 
-This is a semester-long class which introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
+This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
 ---
 
