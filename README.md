@@ -8,12 +8,12 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ## 2019 Course Materials
 
-* [Syllabus](./2019S/)
+* [Syllabus]
 
 ### Lecture Slides
 
-* [Introduction](./2019S/)
+* [Introduction]
 
 ### Lab Session Materials
 
-* [Introduction](./2019S/2019S_Statistics1_SOHN_lab01.zip)
+* [Week 1 & 2](./2019S/lab/2019S_Statistics1_SOHN_lab01.zip)
