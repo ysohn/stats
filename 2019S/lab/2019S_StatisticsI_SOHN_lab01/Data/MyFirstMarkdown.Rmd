@@ -1,0 +1,24 @@
+---
+title: "My First Markdown"
+author: "My Name"
+date: "December 5, 2018"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple syntax for generating reports in HTML, PDF, and MS Word formats.
+
+To italicize text you just write use *single asterisks* while to bold-face text you use **double asterisks**.
+
+```{r}
+
+# loading the R data set
+# load("C:/Folder/States.RData")
+
+# examining the data set
+head(States)
+nrow(States)
+ncol(States)
+
+```
+
+When you click the "Knit" button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. 
