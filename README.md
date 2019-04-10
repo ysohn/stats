@@ -12,6 +12,7 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ## TA Office Hours
 
+* TA: [Masanori Kikuchi](waseda.statistics@gmail.com)
 * Location for this week (0410 and 0411): among A,B,C or D at 7-2 (in Building 7)
 * Wednesdays 4:30 ~ 5:30 PM
 * Thursdays 11:00 AM ~ Noon
