@@ -10,10 +10,16 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * [Syllabus]
 
+## TA Office Hours
+
+* Location for this week (0410 and 0411): among A,B,C or D at 7-2 (in Building 7)
+* Wednesdays 4:30 ~ 5:30 PM
+* Thursdays 11:00 AM ~ Noon
+
 ### Lecture Slides
 
 * [Introduction]
 
 ### Lab Session Materials
 
-* [Week 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
+* [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
