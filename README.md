@@ -1,4 +1,4 @@
-## Statistics I & II at Waseda University School of Political Science and Ecnonomics
+# Statistics I & II at Waseda University School of Political Science and Ecnonomics
 
 by Yunkyu Sohn
 
@@ -27,4 +27,4 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### To Auditors
 
-I hope that there are seats in one of the lab sessions (please check the syllabus list to check the schedule for 01, 02, and 03). If you find that the one you chose is crowded you may choose among the other two. There are a number of seats in the lecture class.
+I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the one you chose is crowded you may choose among the other two. There are a number of seats in the lecture class.
