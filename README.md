@@ -14,8 +14,8 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
 * For *R* and *RStudio* related matters please visit the TA.
-* Wednesdays 4:30 ~ 5:30 PM **Location: 3-608**
-* Thursdays 11:00 AM ~ Noon **Location: 3-910**
+* Wednesdays 4:30 ~ 5:30 PM **at 3-608**
+* Thursdays 11:00 AM ~ Noon **at 3-910**
 
 ### Lecture Slides
 
