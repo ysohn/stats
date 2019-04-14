@@ -18,7 +18,7 @@ This semester-long class introduces elementary statistical approaches in social 
 7. Regression / R Quiz (week starting 0527)
 8. Final Exam for Statistics I (no lab; exam: 0604)
 
-## Lecture / Lab Schedule for Statistics I (Summer Quarter)
+## Lecture / Lab Schedule for Statistics II (Summer Quarter)
 1. Probability and Conditional Probability / R Review + Regression in R 1 (week starting 0610)
 2. Random Variables and Their Distributions / Programming Loops in R (week starting 0617)
 3. Estimation / Monte Carlo Simulations in R 1 (week starting 0624)
