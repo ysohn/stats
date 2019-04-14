@@ -8,7 +8,7 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ## 2019 Course Materials
 
-* [Syllabus]
+* [Syllabus](2019S_Statistics_SOHN_syllabus.md)
 
 ### TA Office Hours
 
@@ -19,8 +19,12 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### Lecture Slides
 
-* [Introduction]
+* [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_Statistics_SOHN_week1.pdf)
 
 ### Lab Session Materials
 
 * [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
+
+### To Auditors
+
+I hope that there are seats in one of the lab sessions (please check the syllabus list to check the schedule for 01, 02, and 03). If you find that the one you chose is crowded you may choose among the other two. There are a number of seats in the lecture class.
