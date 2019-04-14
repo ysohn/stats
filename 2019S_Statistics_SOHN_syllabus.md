@@ -1,8 +1,10 @@
-# Statistics I & II at Waseda University School of Political Science and Ecnonomics
+# Statistics I & II
 
 by Yunkyu Sohn
 
 ---
+
+*Course Website: https://github.com/ysohn/stats/
 
 This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
@@ -54,5 +56,5 @@ You can use desktop computers in the computer lab, but I recommend the students 
 
 1. Install R (https://cran.ism.ac.jp/)
 * Download the one for your operating system.
-2. Install R Studio (https://www.rstudio.com/products/rstudio/download/)
-* Download the one for your operating system under 'Installers for Supported Platforms'. 
+2. Install RStudio (https://www.rstudio.com/products/rstudio/download/)
+* Download the one for your operating system under **Installers for Supported Platforms**.
