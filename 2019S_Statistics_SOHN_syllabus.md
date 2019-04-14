@@ -4,7 +4,7 @@ by Yunkyu Sohn
 
 ---
 
-*Course Website: https://github.com/ysohn/stats/
+Course Website: https://github.com/ysohn/stats/
 
 This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
