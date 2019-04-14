@@ -45,7 +45,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * In-class Programming quiz 40%
 * Participation 10%
 
-### TA Office Hours
+## TA Office Hours
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
 * For **R** and **RStudio** related matters please visit the TA.
