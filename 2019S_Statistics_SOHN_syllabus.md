@@ -36,7 +36,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * https://www.datacamp.com
 * Verzani. Using R for Introductory Statistics. At: http://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf
 * Owen. The R Guide. At: http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf
-* Venables and Smith. An Introduction to R. At: http://cran.r-project.org/doc/manuals/R- intro.pdf
+* Venables and Smith. An Introduction to R. At: http://cran.r-project.org/doc/manuals/R-intro.pdf
 * Verzani. Simple R. At: http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
 * Wickham. Advanced R. At: https://adv-r.hadley.nz/
 

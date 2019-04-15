@@ -27,4 +27,4 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### To Auditors
 
-I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the one you chose is crowded, you may choose among the other two. There are a number of seats in the lecture class.
+I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the session you chose is crowded, you may switch to another. There are a number of seats in the lecture class.
