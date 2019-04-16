@@ -25,6 +25,8 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
 
+### R Tips (coming soon)
+
 ### To Auditors
 
 I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the session you chose is crowded, you may switch to another. There are a number of seats in the lecture class.
