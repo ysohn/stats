@@ -20,6 +20,7 @@ This semester-long class introduces elementary statistical approaches in social 
 ### Lecture Slides
 
 * [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_Statistics_SOHN_week1.pdf)
+* [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_Statistics_SOHN_week2.pdf)
 
 ### Lab Session Materials
 
