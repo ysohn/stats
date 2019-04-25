@@ -35,7 +35,3 @@ This semester-long class introduces elementary statistical approaches in social 
 ### To Registered Students
 
 You **must** come to the lab class that you are registered to. TAs check attendance separately for each lab class.
-
-<>### To Auditors (Only those who are **not registered**)
-
-<>I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the session you chose is crowded, you may switch to another. There are a number of seats in the lecture class.
