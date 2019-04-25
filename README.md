@@ -19,8 +19,9 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### Lecture Slides
 
-* [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_Statistics_SOHN_week1.pdf)
-* [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_Statistics_SOHN_week2.pdf)
+* [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week1.pdf)
+* [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week2.pdf)
+* [Observational Studies (version: 042519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week3.pdf)
 
 ### Lab Session Materials
 
@@ -31,6 +32,10 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * [A list of web resource for troubleshooting](Rtips.md)
 
-### To Auditors
+### To Registered Students
 
-I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the session you chose is crowded, you may switch to another. There are a number of seats in the lecture class.
+You **must** come to the lab class that you are registered to. TAs check attendance separately for each lab class.
+
+<>### To Auditors (Only those who are **not registered**)
+
+<>I hope that there are seats in one of the lab sessions (01: Mon 3rd; 02: Mon 4th; 03: Tue 4th). If you find that the session you chose is crowded, you may switch to another. There are a number of seats in the lecture class.
