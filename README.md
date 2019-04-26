@@ -34,4 +34,4 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### To Registered Students
 
-You **must** come to the lab class that you are registered to. TAs check attendance separately for each lab class.
+You **must** come to the lab class that you are registered. TAs check attendance separately for each lab class.
