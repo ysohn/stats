@@ -21,13 +21,14 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week1.pdf)
 * [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week2.pdf)
-* [Observational Studies (version: 042519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week3.pdf)
-
+* [Observational Studies (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week3.pdf)
+* [Survey Sampling (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week4.pdf)
+ 
 ### Lab Session Materials
 
 * [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
 * [Weeks 3](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab03.zip)
-* [Weeks 4](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab04.zip)
+* [Weeks 4 (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab04.zip)
 
 ### R Tips
 
