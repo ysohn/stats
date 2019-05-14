@@ -23,7 +23,8 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week2.pdf)
 * [Observational Studies (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week3.pdf)
 * [Survey Sampling (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week4.pdf)
-
+* [Correlation and Regression](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week5.pdf) [Calcuation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week5_sub.pdf) 
+*
 ### Lab Session Materials
 
 * [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
@@ -38,7 +39,3 @@ This semester-long class introduces elementary statistical approaches in social 
 ### To Registered Students
 
 You **must** come to the lab class that you are registered. TAs check attendance separately for each lab class.
-
-### Survey: only for Statistics I 03 registered students
-
-https://forms.gle/hTNVeTkixQ7Ffti66

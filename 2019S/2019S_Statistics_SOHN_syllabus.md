@@ -8,19 +8,19 @@ Course Website: https://github.com/ysohn/stats/
 
 This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
-## Lecture / Lab Schedule for Statistics I (Spring Quarter)
+## Lecture (Textbook sections) / Lab Schedule for Statistics I (Spring Quarter)
 1. Overview / Introduction to R and R Studio 1 (week starting 0408)
-2. Experiments / Introduction to R and R Studio 2 (week starting 0415)
-3. Observational Studies / Data Wrangling in R (week starting 0422)
-4. Survey sampling / Base Graphics in R (week starting 0506)
-5. Clustering /  Text Analysis in R (week starting 0513)
-6. Prediction / Advanced Graphics in R (week starting 0520)
-7. Regression / R Quiz (week starting 0527)
+2. Experiments (2.1-2.4) / Introduction to R and R Studio 2 (week starting 0415)
+3. Observational Studies (2.5-2.7) / Data Wrangling in R (week starting 0422)
+4. Survey sampling (2.1-2.4) / Base Graphics in R (week starting 0506)
+5. Correlation and Regression (3.6, 4.2) /  Programming Loops in R (week starting 0513)
+6. Regression and Prediction (4.2, 4.1) / Regression in R (week starting 0520)
+7. Regression and Causation (4.3) / R Quiz (week starting 0527)
 8. Final Exam for Statistics I (no lab; exam: 0604)
 
 ## Lecture / Lab Schedule for Statistics II (Summer Quarter)
-1. Probability and Conditional Probability / R Review + Regression in R 1 (week starting 0610)
-2. Random Variables and Their Distributions / Programming Loops in R (week starting 0617)
+1. Probability and Conditional Probability / R Review (week starting 0610)
+2. Random Variables and Their Distributions / Advanced Graphics in R (week starting 0617)
 3. Estimation / Monte Carlo Simulations in R 1 (week starting 0624)
 4. Hypothesis Testing / Monte Carlo Simulations in R 2 (week starting 0701)
 5. Regression with Uncertainty 1 / Hypothesis Testing in R (week starting 0708)
@@ -40,9 +40,14 @@ This semester-long class introduces elementary statistical approaches in social 
 * Verzani. Simple R. At: http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
 * Wickham. Advanced R. At: https://adv-r.hadley.nz/
 
+## Books on Causal Inference
+* Pearl, Judea, and Dana Mackenzie. The book of why: the new science of cause and effect. Basic Books, 2018. (Popular book)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mastering'metrics: The path from cause to effect. Princeton University Press, 2014. (Introductory)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mostly harmless econometrics: An empiricist's companion. Princeton university press, 2008. (Intermediate)
+
 ## Evalulation (The grade will be calculated separately for I and II.)
-* In-class Final exam 50%
-* In-class Programming quiz 40%
+* In-class Final exam 60%
+* In-class Programming quiz 30%
 * Participation 10%
 
 ## TA Office Hours
