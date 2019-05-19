@@ -29,11 +29,11 @@ This semester-long class introduces elementary statistical approaches in social 
 ### Lab Session Materials
 
 * [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
-* [Weeks 3](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab03.zip)
-* [Weeks 4 (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab04.zip)
-* [Weeks 5 (removed addendum)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05.zip)
+* [Week 3](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab03.zip)
+* [Week 4 (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab04.zip)
+* [Week 5 (removed addendum)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05.zip)
   - [Addendum: dplyr package; not on quiz/exam](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05_sub.zip)
-* [Weeks 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
+* [Week 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
 
 ### R Tips
 
