@@ -32,6 +32,9 @@ This semester-long class introduces elementary statistical approaches in social 
 * Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
 
 ## Free Resources
+* Hanck et al. Introduction to Econometrics with R. At: https://bookdown.org/machar1991/ITER/
+* Colonescu. Principles of Econometrics with R. At: https://bookdown.org/ccolonescu/RPoE4/
+* Sarafian. Introduction to Data Science. At: https://bookdown.org/ronsarafian/IntrotoDS/
 * https://www.khanacademy.org
 * https://www.datacamp.com
 * Verzani. Using R for Introductory Statistics. At: http://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf
@@ -42,8 +45,8 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ## Books on Causal Inference
 * Pearl, Judea, and Dana Mackenzie. The book of why: the new science of cause and effect. Basic Books, 2018. (Popular book)
-* Angrist, Joshua D., and Jörn-Steffen Pischke. Mastering'metrics: The path from cause to effect. Princeton University Press, 2014. (Introductory)
-* Angrist, Joshua D., and Jörn-Steffen Pischke. Mostly harmless econometrics: An empiricist's companion. Princeton university press, 2008. (Intermediate)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mastering metrics: The path from cause to effect. Princeton University Press, 2014. (Introductory)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mostly harmless econometrics: An empiricist's companion. Princeton University Press, 2008. (Intermediate)
 
 ## Evalulation (The grade will be calculated separately for I and II.)
 * In-class Final exam 60%
