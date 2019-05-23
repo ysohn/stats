@@ -25,7 +25,8 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Survey Sampling (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week4.pdf)
 * [Correlation and Regression (version: 051619)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week5.pdf)
   - [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week5_sub.pdf)
-* [Linear Regression](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week6.pdf)
+* [Linear Regression (version: 052319)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week6.pdf)
+- [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week6_sub.pdf)
 
 ### Lab Session Materials
 
