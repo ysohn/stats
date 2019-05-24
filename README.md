@@ -39,7 +39,7 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### R Quiz Study Guide
 
-* [R Quiz Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.zip)
+* [R Quiz Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.md)
 
 ### R Tips
 
