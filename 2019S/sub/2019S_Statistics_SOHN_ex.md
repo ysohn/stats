@@ -14,12 +14,12 @@ All questions will be based on the lab session materials. There will be 30-40 mu
     x=x+i}
   print(x)
   ```
-  
-  1. `for`
-  2. `if`
-  3. `while`
-  4. `end`
-  5. `repeat`
+
+  1) `for`
+  2) `if`
+  3) `while`
+  4) `end`
+  5) `repeat`
 
 
 * Type 2. Outputs: What will be the output of the following codes?
@@ -31,8 +31,8 @@ All questions will be based on the lab session materials. There will be 30-40 mu
   print(x)
   ```
 
-  1. `[1] 1`
-  2. `[1] 5`
-  3. `[1] 10`
-  4. `[1] 15`
-  5. `[1] 100`
+  1) `[1] 1`
+  2) `[1] 5`
+  3) `[1] 10`
+  4) `[1] 15`
+  5) `[1] 100`
