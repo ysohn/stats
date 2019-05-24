@@ -15,7 +15,7 @@ This semester-long class introduces elementary statistical approaches in social 
 4. Survey sampling (2.1-2.4) / Base Graphics in R (week starting 0506)
 5. Correlation and Regression (3.6, 4.2) /  Programming Loops in R (week starting 0513)
 6. Regression and Prediction (4.2, 4.1) / Regression in R (week starting 0520)
-7. Regression and Causation (4.3) / R Quiz (week starting 0527)
+7. Regression and Causation (4.3) / R Quiz (0528 5th period at 3-801) (week starting 0527)
 8. Final Exam for Statistics I (no lab; exam: 0604)
 
 ## Lecture / Lab Schedule for Statistics II (Summer Quarter)
