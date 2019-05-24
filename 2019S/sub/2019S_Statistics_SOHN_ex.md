@@ -15,11 +15,11 @@ All questions will be based on the lab session materials. There will be 30-40 mu
   print(x)
   ```
 
-  1) `for`
-  2) `if`
-  3) `while`
-  4) `end`
-  5) `repeat`
+1) `for`
+2) `if`
+3) `while`
+4) `end`
+5) `repeat`
 
 
 * Type 2. Outputs: What will be the output of the following codes?
