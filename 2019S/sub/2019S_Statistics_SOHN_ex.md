@@ -31,8 +31,8 @@ All questions will be based on the lab session materials. There will be 30-40 mu
   print(x)
   ```
 
-  1) `[1] 1`
-  2) `[1] 5`
-  3) `[1] 10`
-  4) `[1] 15`
-  5) `[1] 100`
+ 1) `[1] 1`
+ 2) `[1] 5`
+ 3) `[1] 10`
+ 4) `[1] 15`
+ 5) `[1] 100`
