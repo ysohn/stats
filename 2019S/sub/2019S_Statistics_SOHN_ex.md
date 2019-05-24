@@ -6,7 +6,7 @@ All questions will be based on the lab session materials. There will be 30-40 mu
 
 ## Example R Quiz Questions
 
-* Type 1. Filling in the blank: You saw `[1] 55` after running the following codes. What should be in ___? Select all that are correct.
+* Type 1. Filling in the blank: You saw `[1] 15` after running the following codes. What should be in ___? Select all that are correct.
 
   ```
   x=0
