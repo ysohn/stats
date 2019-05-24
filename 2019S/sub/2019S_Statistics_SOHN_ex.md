@@ -14,6 +14,7 @@ All questions will be based on the lab session materials. There will be 30-40 mu
     x=x+i}
   print(x)
   ```
+  
   1. `for`
   2. `if`
   3. `while`
@@ -29,6 +30,7 @@ All questions will be based on the lab session materials. There will be 30-40 mu
     x=x+i}
   print(x)
   ```
+
   1. `[1] 1`
   2. `[1] 5`
   3. `[1] 10`
