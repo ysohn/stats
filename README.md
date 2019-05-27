@@ -28,6 +28,8 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Linear Regression (version: 052319)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week6.pdf)
   - [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week6_sub.pdf)
 * [Regression and Causation (version: 052819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week7.pdf)
+  - [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_sub.pdf)
+  - [Additional Slides for Interaction Terms](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_interaction.pdf)
 
 ### Lab Session Materials
 
