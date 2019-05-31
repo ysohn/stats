@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Simple_linear_regression#Fitting_the_regression_li
 | Number of smokers in May  | 70,000 | 60,000 |
 | Number of smokers in June | 65,000 | 57,000 |
 
-    * Estimate the sample average treatment effect using a cross-section design: 65000/100000-57000/90000=-0.017
+  1. Estimate the sample average treatment effect using a cross-section design: 65000/100000-57000/90000=-0.017
   2. Estimate the sample average treatment effect using a before-and-after design: 65000/100000-70000/100000=-0.05
   3. Estimate the sample average treatment effect for the treated using the difference in differences estimator under the parallel trend assumption: (65000/100000-70000/100000)-(57000/90000}-60000/90000)=-0.017
 
