@@ -42,7 +42,7 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ### Study Guide
 
-* [Exam Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md) $\frac{65000}{100000}-\frac{70000}{100000}=0.05$ 
+* [Exam Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md) 
 * [R Quiz Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.md)
 
 ### R Tips
