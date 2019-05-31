@@ -15,7 +15,6 @@ https://en.wikipedia.org/wiki/Simple_linear_regression#Fitting_the_regression_li
 
 * You are a research associate working at the National Bureau of Health Research, and you want to investigate the effect of tobacco control programs on smoking. You found two adjacent cities, city A and city B, and conducted panel surveys for 100,000 randomly selected respondents in city A and 90,000 randomly selected respondents in City B at two time points, one in May and the other in June. The program was only implemented in city A on June 1st, but never in city B. What is the average treatment effect of the program on the chance that a person smokes? Ignore the possibility of non-response bias. If necessary, calculate the result rounded to the three digit after the decimal point.
 
-
 |                           | City A | City B |
 |---------------------------|--------|--------|
 | Number of smokers in May  | 70,000 | 60,000 |
@@ -27,7 +26,6 @@ https://en.wikipedia.org/wiki/Simple_linear_regression#Fitting_the_regression_li
 
 
 * You saw the following regression table after running a linear regression on whether each voter chooses `LDP` candidate in a legislator election or not as a function of their `gender` (male:1; female:0) and `age`. You additionally assumed that there were heterogeneous treatment effects of gender by respondents' age. If necessary, calculate the result rounded to the three digit after the decimal point.
-
 ```
 ##
 ## Call:
