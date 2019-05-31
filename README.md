@@ -40,8 +40,9 @@ This semester-long class introduces elementary statistical approaches in social 
   - [Addendum: dplyr package; not on quiz/exam](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05_sub.zip)
 * [Week 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
 
-### R Quiz Study Guide
+### Study Guide
 
+* [Exam Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md) $\frac{65000}{100000}-\frac{70000}{100000}=0.05$ 
 * [R Quiz Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.md)
 
 ### R Tips
