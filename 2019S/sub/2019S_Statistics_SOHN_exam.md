@@ -1,6 +1,6 @@
 # Exam Study Guide
 
-All questions will be entirely based on the lecture materials (i.e. slides), but not the lab materials. Those contents in the textbook, but not on the lecture slides, will not be asked. Some questions may include R codes and outputs that were shown in the lecture slides. There will be around 30 multiple choice questions + simple answer questions.
+All questions will be entirely based on the lecture materials (i.e. slides), but not the lab materials. Those contents in the textbook, but not on the lecture slides, will not be asked. Some questions may include R codes and outputs that were shown in the lecture slides. There will be 30 single choice questions.
 
 ---
 ## Recap
