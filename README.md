@@ -16,6 +16,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * For **R** and **RStudio** related matters please visit the TA.
 * Wednesdays 4:30 ~ 5:30 PM **at 3-608**
 * Thursdays 11:00 AM ~ Noon **at 3-910**
+* ***Statistics II students: *** For R-related matters, please utilize TA office hours if could not take Statistics I.
 
 ### Lecture Slides
 
@@ -39,10 +40,11 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Week 5 (removed addendum)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05.zip)
   - [Addendum: dplyr package; not on quiz/exam](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05_sub.zip)
 * [Week 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
+* [Week 9 (Statistics II starts)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab09.zip)
 
 ### Study Guide
 
-* [Exam Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md) 
+* [Exam Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md)
 * [R Quiz Study Guide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.md)
 
 ### R Tips

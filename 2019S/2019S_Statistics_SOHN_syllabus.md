@@ -19,8 +19,8 @@ This semester-long class introduces elementary statistical approaches in social 
 8. Final Exam for Statistics I (no lab; exam: 0604)
 
 ## Lecture / Lab Schedule for Statistics II (Summer Quarter)
-1. Probability and Conditional Probability / R Review (week starting 0610)
-2. Random Variables and Their Distributions / Advanced Graphics in R (week starting 0617)
+1. Probability and Conditional Probability / Advanced Graphics in R (week starting 0610)
+2. Random Variables and Their Distributions / Probability and Simulations in R (week starting 0617)
 3. Estimation / Monte Carlo Simulations in R 1 (week starting 0624)
 4. Hypothesis Testing / Monte Carlo Simulations in R 2 (week starting 0701)
 5. Regression with Uncertainty 1 / Hypothesis Testing in R (week starting 0708)
