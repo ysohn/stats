@@ -16,7 +16,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * For **R** and **RStudio** related matters please visit the TA.
 * Wednesdays 4:30 ~ 5:30 PM **at 3-608**
 * Thursdays 11:00 AM ~ Noon **at 3-910**
-* **Statistics II students:** For R-related matters, please utilize TA office hours if did not take Statistics I.
+* **Statistics II students:** For R-related matters, please utilize TA office hours if you did not take Statistics I.
 
 ### Lecture Slides
 
