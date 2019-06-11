@@ -31,6 +31,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Regression and Causation (version: 052819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week7.pdf)
   - [Calculation Slides](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_sub.pdf)
   - [Additional Slides for Interaction Terms](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_interaction.pdf)
+* [Probability and Conditional Probability (Statistics II starts)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week9.pdf)
 
 ### Lab Session Materials
 
