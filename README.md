@@ -43,6 +43,7 @@ This semester-long class introduces elementary statistical approaches in social 
   - [Addendum: dplyr package; not on quiz/exam](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05_sub.zip)
 * [Week 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
 * [Week 9 (Statistics II starts)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab09.zip)
+* [Week 10](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab10.zip)
 
 ### Study Guide
 
