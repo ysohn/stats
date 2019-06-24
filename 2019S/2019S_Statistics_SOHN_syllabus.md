@@ -20,18 +20,19 @@ This semester-long class introduces elementary statistical approaches in social 
 
 ## Lecture / Lab Schedule for Statistics II (Summer Quarter)
 1. Probability and Conditional Probability / Advanced Graphics in R (week starting 0610)
-2. Random Variables and Their Distributions / Probability and Simulations in R (week starting 0617)
-3. Estimation / Monte Carlo Simulations in R 1 (week starting 0624)
-4. Hypothesis Testing / Monte Carlo Simulations in R 2 (week starting 0701)
-5. Regression with Uncertainty 1 / Hypothesis Testing in R (week starting 0708)
-6. Regression with Uncertainty 2 / Regression in R 2 (week starting 0715)
-7. Review / R Quiz (week starting 0722)
+2. Random Variables / Probability and Simulations in R (week starting 0617)
+3. Probability Distributions / Monte Carlo Simulations in R 1 (week starting 0624)
+4. Estimation / Monte Carlo Simulations in R 2 (week starting 0701)
+5. Hypothesis Testing / Hypothesis Testing in R (week starting 0708)
+6. Regression with Uncertainty 1 / Regression in R 2 (week starting 0715)
+7. Regression with Uncertainty 2 and Review / R Quiz (week starting 0722)
 8. Final Exam for Statistics II (no lab; exam: 0730)
 
 ## Textbook
 * Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
 
 ## Free Resources
+* Pishro-Nik. Introduction to probability, statistics, and random processes. At https://www.probabilitycourse.com
 * Hanck et al. Introduction to Econometrics with R. At: https://bookdown.org/machar1991/ITER/
 * Colonescu. Principles of Econometrics with R. At: https://bookdown.org/ccolonescu/RPoE4/
 * Sarafian. Introduction to Data Science. At: https://bookdown.org/ronsarafian/IntrotoDS/
