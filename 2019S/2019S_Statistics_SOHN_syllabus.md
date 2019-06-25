@@ -32,7 +32,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
 
 ## Free Resources
-* Pishro-Nik. Introduction to probability, statistics, and random processes. At https://www.probabilitycourse.com
+* Pishro-Nik. Introduction to probability, statistics, and random processes. At: https://www.probabilitycourse.com
 * Hanck et al. Introduction to Econometrics with R. At: https://bookdown.org/machar1991/ITER/
 * Colonescu. Principles of Econometrics with R. At: https://bookdown.org/ccolonescu/RPoE4/
 * Sarafian. Introduction to Data Science. At: https://bookdown.org/ronsarafian/IntrotoDS/
