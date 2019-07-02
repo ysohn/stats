@@ -36,7 +36,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Random Variables and Their Distributions (version: 062619)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week10.pdf)
 * [Probability Distributions (version: 070219)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week11.pdf)
   - [Note on Normal Distribution: Please try on your own. We will go over it during the lab session.](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week11_sub_1.pdf)
-* [Probability Distributions and estimation](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week12.pdf)
+* [Probability Distributions and estimation (version: 070319)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week12.pdf)
 
 ### Lab Session Materials
 
