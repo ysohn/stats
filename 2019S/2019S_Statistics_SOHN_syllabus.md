@@ -23,8 +23,8 @@ This semester-long class introduces elementary statistical approaches in social 
 2. Random Variables / Probability and Simulations in R (week starting 0617)
 3. Probability Distributions / Monte Carlo Simulations in R 1 (week starting 0624)
 4. Estimation / Monte Carlo Simulations in R 2 (week starting 0701)
-5. Hypothesis Testing / Hypothesis Testing in R (week starting 0708)
-6. Regression with Uncertainty 1 / Regression in R 2 (week starting 0715)
+5. Hypothesis Testing 1 / Hypothesis Testing in R 1 (week starting 0708)
+6. Hypothesis Testing 2 & Regression with Uncertainty 1 / Hypothesis Testing in R 2 & Regression in R 2 (week starting 0715)
 7. Regression with Uncertainty 2 and Review / R Quiz (week starting 0722)
 8. Final Exam for Statistics II (no lab; exam: 0730)
 
