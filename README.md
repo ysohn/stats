@@ -54,6 +54,7 @@ This semester-long class introduces elementary statistical approaches in social 
 * [Week 10](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab10.zip)
 * [Week 11 & 12](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab11.zip)
 * [Week 13](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab13.zip)
+* [Week 14](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab14.zip)
 
 ### Study Guide
 
