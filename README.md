@@ -10,6 +10,11 @@ This semester-long class introduces elementary statistical approaches in social 
 
 * [Syllabus](https://github.com/ysohn/stats/blob/master/2019S/2019S_Statistics_SOHN_syllabus.md)
 
+### R Exam
+
+* **0723 5th period at 3-801**
+* [Exam information and office hours](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_Rexam.pdf)
+
 ### TA Office Hours
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
