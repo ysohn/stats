@@ -47,6 +47,7 @@ This semester-long class introduces elementary statistical approaches in social 
   - [Calculation note](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week13_sub_1.pdf)
   - [Why 1/(n-1) for sample variance](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week13_sub_2.pdf)
 * [Hypothesis Testing and Linear Regression](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week14.pdf)
+* [Linear Regression and Review](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week15.pdf)
 
 ### Lab Session Materials
 
