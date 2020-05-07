@@ -11,6 +11,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
 * For **R** and **RStudio** related matters please email the TA.
+ 
 ---
 
 ## 2020 Course Materials
@@ -53,7 +54,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 
 ## Evalulation (The grade will be calculated separately for I and II.)
 * Both I and II are pass/fail (P/Q) classes.
-* A set of quiz for each lecture: ~5 questions x 5 = ~25 questions  
+* A set of quizzes for each lecture
 * Programming quiz at the end of each quarter 
 
 ## Students who only registered for Statistics II 
@@ -65,5 +66,4 @@ Students who are taking Statistics II are assumed to have knowledge in the conte
  - Download and install the one for your operating system.
 2. Install RStudio (https://www.rstudio.com/products/rstudio/download/)
 	- Download and install the one for your operating system under **All Installers**.
- 		- Download and install the one for your operating system under **All Installers**.
  	 
