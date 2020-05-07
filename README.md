@@ -26,11 +26,6 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 
 ### Lab Session Materials and Videos 
 
- 
-### R Tips
-
-* [A list of web resource for troubleshooting](Rtips.md)
-
 ## Textbook
 * Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
 
@@ -67,3 +62,7 @@ Students who are taking Statistics II are assumed to have knowledge in the conte
 2. Install RStudio (https://www.rstudio.com/products/rstudio/download/)
 	- Download and install the one for your operating system under **All Installers**.
  	 
+  
+## R Tips
+
+* [A list of web resource for troubleshooting](Rtips.md)
