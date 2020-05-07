@@ -1,4 +1,4 @@
-## Statistics I & II at Waseda University School of Political Science and Ecnonomics
+# Statistics I & II at Waseda University School of Political Science and Ecnonomics
 
 by Yunkyu Sohn
 
