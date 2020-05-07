@@ -7,10 +7,10 @@ This semester-long class introduces elementary statistical approaches in social 
 ### Inquiries
 For logistical (eligibility for taking the class and etc.) or technical concerns, please contact the corresponding university offices. For other class-related matters, please direct emails to: ysohn.teaching@gmail.com
 
-### TA Office Hours
+### TA 
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
-* For **R** and **RStudio** related matters please email the TA.
+* For **R** and **RStudio** related matters please email the TA waseda.statistics@gmail.com .
  
 ---
 
