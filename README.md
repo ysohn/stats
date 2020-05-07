@@ -4,74 +4,64 @@ by Yunkyu Sohn
 
 This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
+### Inquiries
+For logistical (eligibility for taking the class and etc.) or technical concerns, please contact the corresponding university offices. For other class-related matters, please direct emails to: ysohn.teaching@gmail.com
+
 ---
 
-## 2019 Course Materials
-
-* [Syllabus](https://github.com/ysohn/stats/blob/master/2019S/2019S_Statistics_SOHN_syllabus.md)
-
-### Final Exam
-
-* **0730 5th period at 3-801**
-* [Exam review](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_review.pdf)
+## 2020 Course Materials
 
 ### TA Office Hours
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
-* For **R** and **RStudio** related matters please visit the TA.
-* Wednesdays 4:30 ~ 5:30 PM **at 3-608**
-* Thursdays 11:00 AM ~ Noon **at 3-910**
-* **Statistics II students:** For R-related matters, please utilize TA office hours if you did not take Statistics I.
+* For **R** and **RStudio** related matters please email the TA.
 
-### Lecture Slides
+### List of Messages Sent to Students 
 
-* [Introduction (version: 041519)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week1.pdf)
-* [Causal Effects / Experiments (version: 041819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week2.pdf)
-* [Observational Studies (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week3.pdf)
-* [Survey Sampling (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week4.pdf)
-* [Correlation and Regression (version: 051619)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week5.pdf)
-  - [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week5_sub.pdf)
-* [Linear Regression (version: 052319)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week6.pdf)
-  - [Calculation Slide](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week6_sub.pdf)
-* [Regression and Causation (version: 052819)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsI_SOHN_week7.pdf)
-  - [Calculation Slides](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_sub.pdf)
-  - [Additional Slides for Interaction Terms](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsI_SOHN_week7_interaction.pdf)
-* [Probability and Conditional Probability (Statistics II starts)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week9.pdf)
-  - [Examples: Let's solve together next week!](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week9_sub.pdf)
-* [Random Variables and Their Distributions (version: 062619)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week10.pdf)
-* [Probability Distributions (version: 070219)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week11.pdf)
-  - [Note on Normal Distribution: Please try on your own. We will go over it during the lab session.](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week11_sub_1.pdf)
-* [Probability Distributions and estimation (version: 070319)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week12.pdf)
-  - [Calculation note: There could have been typos in derivation during the lecture. Please refer to this one!](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week12_sub_1.pdf)
-* [Hypothesis Testing (version: 071019)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week13.pdf)
-  - [Calculation note](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week13_sub_1.pdf)
-  - [Why 1/(n-1) for sample variance](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_StatisticsII_SOHN_week13_sub_2.pdf)
-* [Hypothesis Testing and Linear Regression](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week14.pdf)
-* [Linear Regression and Review (correction on the definition of $\tilde\delta_{edu}$ on p.23)](https://github.com/ysohn/stats/blob/master/2019S/lecture/2019S_StatisticsII_SOHN_week15.pdf)
+* [Messages](messages.md)
 
-### Lab Session Materials
+### Lecture Slides and Videos 
 
-* [Weeks 1 & 2](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab01.zip)
-* [Week 3](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab03.zip)
-* [Week 4 (version: 051019)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab04.zip)
-* [Week 5 (removed addendum)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05.zip)
-  - [Addendum: dplyr package; not on quiz/exam](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab05_sub.zip)
-* [Week 6](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsI_SOHN_lab06.zip)
-* [Week 9 (Statistics II starts)](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab09.zip)
-* [Week 10](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab10.zip)
-* [Week 11 & 12](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab11.zip)
-* [Week 13](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab13.zip)
-* [Week 14](https://github.com/ysohn/stats/blob/master/2019S/lab/2019S_StatisticsII_SOHN_lab14.zip)
 
-### Study Guide
+### Lab Session Materials and Videos 
 
-* [Exam Study Guide for Statistics I](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_exam.md)
-* [R Quiz Study Guide for Statistics I](https://github.com/ysohn/stats/blob/master/2019S/sub/2019S_Statistics_SOHN_ex.md)
-
+ 
 ### R Tips
 
 * [A list of web resource for troubleshooting](Rtips.md)
 
-### To Registered Students
+## Textbook
+* Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
 
-You **must** come to the lab class that you are registered. TAs check attendance separately for each lab class.
+## Free Resources
+* Pishro-Nik. Introduction to probability, statistics, and random processes. At: https://www.probabilitycourse.com
+* Hanck et al. Introduction to Econometrics with R. At: https://bookdown.org/machar1991/ITER/
+* Colonescu. Principles of Econometrics with R. At: https://bookdown.org/ccolonescu/RPoE4/
+* Sarafian. Introduction to Data Science. At: https://bookdown.org/ronsarafian/IntrotoDS/
+* https://www.khanacademy.org
+* https://www.datacamp.com
+* Verzani. Using R for Introductory Statistics. At: http://cbb.sjtu.edu.cn/~mywu/bi217/usingR.pdf
+* Owen. The R Guide. At: http://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf
+* Venables and Smith. An Introduction to R. At: http://cran.r-project.org/doc/manuals/R-intro.pdf
+* Verzani. Simple R. At: http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf
+* Wickham. Advanced R. At: https://adv-r.hadley.nz/
+
+## Books on Causal Inference
+* Pearl, Judea, and Dana Mackenzie. The book of why: the new science of cause and effect. Basic Books, 2018. (Popular book)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mastering metrics: The path from cause to effect. Princeton University Press, 2014. (Introductory)
+* Angrist, Joshua D., and Jörn-Steffen Pischke. Mostly harmless econometrics: An empiricist's companion. Princeton University Press, 2008. (Intermediate)
+
+## Evalulation (The grade will be calculated separately for I and II.)
+* Both I and II are pass/fail (P/Q) classes.
+* A set of quiz for each lecture: ~5 questions x 5 = ~25 questions  
+* Programming quiz at the end of each quarter 
+
+## Students who only registered for Statistics II 
+Students who are taking Statistics II are assumed to have knowledge in the contents covered in Statistics I and basic R skills. You can freely access Statistics I materials on this website. However, those registered only for Statistics II are STRONGLY RECOMMENDED to AUDIT (go through all the videos and R lab session materials) Statistics I as the contents covered in the first statistics sequence (Statistics I) have been changed from the contents from the past years.
+
+## Students must install R and RStudio programs on their own computers.
+
+1. Install R (https://cran.ism.ac.jp/)
+- Download and install the one for your operating system.
+2. Install RStudio (https://www.rstudio.com/products/rstudio/download/)
+- Download and install the one for your operating system under **All Installers**.
