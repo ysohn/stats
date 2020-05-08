@@ -57,8 +57,8 @@ Students who are taking Statistics II are assumed to have knowledge in the conte
 
 ## Students must install R and RStudio programs on their own computers.
 
-1. Install R (https://cran.ism.ac.jp/)
- - Download and install the one for your operating system.
+1. Install R (choose one of the websites located close to your place of acccess: https://cran.r-project.org/mirrors.html)
+ - **Download and Install R** for your operating system.
 2. Install RStudio (https://www.rstudio.com/products/rstudio/download/)
 	- Download and install the one for your operating system under **All Installers**.
  	 

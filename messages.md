@@ -29,8 +29,8 @@ I would like to announce a few things regarding the logistics of the class.
 		- Lab materials/videos: every Tuesday by 4:30 PM
 
 5. [IMPORTANT] What you **must** do before taking the lab class. 
-	- Install R (https://cran.ism.ac.jp/)
-		- Download and install the one for your operating system.
+	- Install R (choose one of the websites located close to your place of acccess: https://cran.r-project.org/mirrors.html)
+		- **Download and Install R** for your operating system.
 	- Install RStudio (https://www.rstudio.com/products/rstudio/download/)
 		- Download and install the one for your operating system under **All Installers**.
 	- Please ask the TA [waseda.statistics@gmail.com](mailto:waseda.statistics@gmail.com) if you have concerns when installing. 
