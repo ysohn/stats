@@ -7,7 +7,7 @@ Welcome to Statistics I (and II)!
 I would like to announce a few things regarding the logistics of the class.
 
 0. Students who only registered for Statistics II 
-	- Students who are taking Statistics II are assumed to have knowledge in the contents covered in Statistics I and basic R skills. You can freely access Statistics I materials on this website. However, those registered only for Statistics II are STRONGLY RECOMMENDED to AUDIT (go through all the videos and R lab session materials) Statistics I as the contents covered in the first statistics sequence (Statistics I) have been changed from the contents from the past years. If you took the Statistics I class taight by me (Sohn) last year, you do not have to. 
+	- Students who are taking Statistics II are assumed to have knowledge in the contents covered in Statistics I and basic R skills. You can freely access Statistics I materials on this website. However, those registered only for Statistics II are STRONGLY RECOMMENDED to AUDIT (go through all the lecture and R lab session materials) Statistics I as the contents covered in the first statistics sequence (Statistics I) have been changed from the contents from the past years. If you took the Statistics I class taight by me (Sohn) last year, you do not have to. 
 
 1. I plan to update all class-related information at https://github.com/ysohn/stats 
 	- Please visit the website frequently.  
