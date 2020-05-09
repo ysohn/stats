@@ -5,7 +5,7 @@ by Yunkyu Sohn
 This semester-long class introduces elementary statistical approaches in social science. Students will learn basics of statistical inference and programming skills that can be used to answer questions in real world social phenomena, policy analysis, and academic research.
 
 ### Inquiries
-For logistical (eligibility for taking the class and etc.) or technical concerns, please contact the corresponding university offices. For other class-related matters, please direct emails to: ysohn.teaching@gmail.com
+For logistical (eligibility for taking the class and etc.) or technical concerns, please contact the corresponding university offices. For other class-related matters, please direct emails to: ysohn.teaching@gmail.com , **NOT** through coursenavi or Moodle messages. 
 
 ### TA 
 

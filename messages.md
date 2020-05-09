@@ -15,7 +15,7 @@ I would like to announce a few things regarding the logistics of the class.
 
 2. Your TA is Masanori Kikuchi who is a graduate student in political science and a recent graduate of SPSE BA program. 
 	- Please direct all R and RStudio related questions to his email address: [waseda.statistics@gmail.com](mailto:waseda.statistics@gmail.com)
-	- You may ask him about lecture related questions as well, but you can also reach the instructor (ysohn.teaching@gmail.com) if you watn to get further information. 
+	- You may ask him about lecture related questions as well, but you can also reach the instructor (ysohn.teaching@gmail.com) if you want to get further information. 
 
 3. Evaluation: This is a P/Q (pass/fail) class. Your performance in this class will be evalulated by weekly quiz sets and a simple R code problem set given at the end of the quarter. I do not intend to fail anyone who complete the class materials. Don't be stressed!
 	- The first set of quizzes will be relased on the second week. Details will be announced around the release. 
