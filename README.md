@@ -14,7 +14,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
  
 ---
 
-## 2020 Course Materials
+## Course Materials
 
 
 ### List of Messages Sent to Students 
@@ -25,6 +25,8 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 * Please check Statistics I **Moodle** page for slides and videos! 
 
 ### Lab Session Materials and Videos 
+* Please check Statistics I **Moodle** page for the materials (you can download here as well) and videos! 
+	- [Weeks 1 & 2 materials](https://github.com/ysohn/stats/blob/master/lab/StatisticsI_SOHN_lab01.zip)
 
 ## Textbook
 * Imai, Kosuke. Quantitative Social Science: An Introduction. Princeton University Press, 2017.
@@ -53,7 +55,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 * Programming quiz at the end of each quarter 
 
 ## Students who only registered for Statistics II 
-Students who are taking Statistics II are assumed to have knowledge in the contents covered in Statistics I and basic R skills. You can freely access Statistics I materials on this website. However, those registered only for Statistics II are STRONGLY RECOMMENDED to AUDIT (go through all the videos and R lab session materials) Statistics I as the contents covered in the first statistics sequence (Statistics I) have been changed from the contents from the past years.
+Students who are taking Statistics II are assumed to have knowledge in the contents covered in Statistics I and basic R skills. Those registered only for Statistics II are STRONGLY RECOMMENDED to AUDIT (go through all the videos and R lab session materials) Statistics I as the contents covered in the first statistics sequence (Statistics I) have been changed from the contents from the past years. (If you took the Statistics I class taught by me (Sohn) last year, you do not have to.) Please send an email to ysohn.teaching@gmail.com with your student number. 
 
 ## Students must install R and RStudio programs on their own computers.
 
