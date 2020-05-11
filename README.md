@@ -22,7 +22,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 * [Messages](messages.md)
 
 ### Lecture Slides and Videos 
-
+* Please check Statistics I **Moodle** page for slides and videos! 
 
 ### Lab Session Materials and Videos 
 
