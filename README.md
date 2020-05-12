@@ -25,7 +25,7 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 * Please check Statistics I **Moodle** page for slides and videos! 
 
 ### Lab Session Materials and Videos 
-* Please check Statistics I **Moodle** page for the materials (you can download here as well) and videos! 
+* Please check Statistics I **Moodle** page for the videos! 
 	- [Weeks 1 & 2 materials](https://github.com/ysohn/stats/blob/master/lab/StatisticsI_SOHN_lab01.zip)
 
 ## Textbook
