@@ -11,6 +11,10 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 
 * TA: [Masanori Kikuchi](mailto:waseda.statistics@gmail.com)
 * For **R** and **RStudio** related matters please email the TA waseda.statistics@gmail.com .
+
+### Class Moodle Page
+
+* [**Moodle**](https://wsdmoodle.waseda.jp/course/view.php?id=71636)
  
 ---
 
@@ -22,10 +26,10 @@ For logistical (eligibility for taking the class and etc.) or technical concerns
 * [Messages](messages.md)
 
 ### Lecture Slides and Videos 
-* Please check Statistics I **Moodle** page for slides and videos! 
+* Please check Statistics I [**Moodle**](https://wsdmoodle.waseda.jp/course/view.php?id=71636) page for slides and videos! 
 
 ### Lab Session Materials and Videos 
-* Please check Statistics I **Moodle** page for videos! 
+* Please check Statistics I [**Moodle**](https://wsdmoodle.waseda.jp/course/view.php?id=71636) page for videos and materials! 
 	- [Weeks 1 & 2 materials](https://github.com/ysohn/stats/blob/master/lab/StatisticsI_SOHN_lab01.zip)
 
 ## Textbook
